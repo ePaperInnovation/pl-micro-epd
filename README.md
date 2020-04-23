@@ -1,7 +1,7 @@
 # pl-micro-epd
 Library and tools written in CircuitPython to control flexible organic displays from PlasticLogic. Welcome to the  docs!
 
-!![featherWing](https://user-images.githubusercontent.com/21104467/80137331-66dacc00-85a3-11ea-8854-6d30efc221cf.jpg)
+![featherWing](https://user-images.githubusercontent.com/21104467/80137331-66dacc00-85a3-11ea-8854-6d30efc221cf.jpg)
 [*Feather Wings with flexible 2.1" and 1.4" E Ink display*](https://www.plasticlogic.com)
 
 
@@ -14,10 +14,9 @@ How To Use
 ### Example: Hello World!
 
 This is the [first](https://github.com/plasticlogic/pl-micro-epd/blob/master/examples/simpletest.py), and shortest possible demo and shows how to address the ePaper: 
-This is the [first](https://github.com/plasticlogic/pl-micro-epd/blob/master/examples/simpletest.py), and shortest possible demo and shows how to address the ePaper: 
 
 ```cpp
-#import digitalio
+# import digitalio
 import busio
 import board
 from pl_uc8156 import PL_UC8156
@@ -49,6 +48,7 @@ License Information
 This library is _**open source**_!
 
 Author: Andreas Boenicke based on 'adafruit_epd.epd' by Dean Miller
+
 License: MIT License (https://opensource.org/licenses/MIT)
 
 We invested time and resources providing this open source code, please support open source hardware by purchasing this product @Adafruit and @Plasticlogic.
