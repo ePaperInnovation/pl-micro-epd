@@ -1,5 +1,5 @@
 # pl-micro-epd
-Library and tools written in CircuitPython to control flexible organic displays from PlasticLogic. Welcome to the  docs!
+Library and tools written in _**CircuitPython**_ to control flexible organic displays from PlasticLogic. Welcome to the  docs!
 
 ![featherWing](https://user-images.githubusercontent.com/21104467/80137331-66dacc00-85a3-11ea-8854-6d30efc221cf.jpg)
 [*Feather Wings with flexible 2.1" and 1.4" E Ink display*](https://www.plasticlogic.com)
