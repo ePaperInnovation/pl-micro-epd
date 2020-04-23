@@ -5,10 +5,6 @@ Library and tools written in CircuitPython to control flexible organic displays 
 [*Feather Wings with flexible 2.1" and 1.4" E Ink display*](https://www.plasticlogic.com)
 
 
-![Feather Wing with 1.38" E Ink](https://user-images.githubusercontent.com/21104467/80135014-e1a1e800-859f-11ea-9418-de34d0307a01.JPG)
-[*Feather Wing with 1.4" E Ink*](https://www.plasticlogic.com)
-
-
 How To Use
 -------------------
 
